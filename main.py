@@ -1,4 +1,4 @@
-#Goal: convert 4000 individual dice rolls into 2000 pairs of dice rolls summed together. Then use those dice pairs to 
+#Goal: convert 4000 individual dice rolls into 2000 pairs of dice rolls summed together. Then use those dice pairs to simulate 200 games of craps
 inFile = open("rawRandomNums.txt")
 outFile = open("crapsGames.txt","w")
 
